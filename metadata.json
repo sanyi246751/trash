@@ -1,0 +1,6 @@
+{
+  "name": "AI 巨大垃圾智慧清運管理平台",
+  "description": "運用 AI 智慧辨識、地圖自動派工與現場安全檢核之巨大廢棄物清運管理系統，實現完全零紙張、高效率的公所便民服務。",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
